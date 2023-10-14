@@ -1,0 +1,27 @@
+.container {
+    width: 300px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.kubik {   
+    width: 30px;
+    height: 30px;
+    border: 1px black solid; 
+    box-sizing: border-box;
+}
+
+.type1 {
+    background-color: blue;
+}
+.type2 {
+    background-color:yellow;
+}
+.type3 {
+    background-color: green;
+}
+.type4 {
+    background-color: purple;
+}
+.type5 {
+    background-color: pink;
+}
